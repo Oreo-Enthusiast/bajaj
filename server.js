@@ -3,7 +3,6 @@ const bodyParser = require('body-parser');
 const app = express();
 const port = 3000; 
 
-// Replace with your user ID format
 const userId = "harashish_chaine_26062003";
 const email = "harashish0542.be21@chitkara.edu.in";
 const rollNumber = "2110990542"; 
